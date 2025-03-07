@@ -4,10 +4,10 @@ public class CarExec_Chapter15 {
 
 	public static void main(String[] args) {
 		
-		Car_Charpter15 car  = new Car_Charpter15();
+		Car_Chapter15 car  = new Car_Chapter15();
 		
 		
-		car.gearChage(3);
+		car.gearChange(3);
 		
 		car.run();
 		
